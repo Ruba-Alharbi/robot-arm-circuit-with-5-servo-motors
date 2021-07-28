@@ -41,7 +41,7 @@ void loop()
     servo_10.write(pos);
     servo_11.write(pos);
     servo_12.write(pos);
-    delay(10); // Wait for 10 millisecond(s)
+    delay(20); // Wait for 20 millisecond(s)
   }
   for (pos = 90; pos >= 0; pos -= 1) {
     servo_9.write(pos);
