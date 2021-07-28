@@ -5,4 +5,4 @@
 
 The Robot Arm Circuit
 ===================
-![caption](Circuit.gif)
+![caption](circuit-2.gif)
